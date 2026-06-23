@@ -214,3 +214,6 @@ Version 1 should focus on:
 
 Avoid adding complex multi-agent collaboration, vector databases, long-term memory, or autonomous planning until the basic flow is stable.
 
+## Demo Update
+
+This line was added from feature/update-readme branch.
